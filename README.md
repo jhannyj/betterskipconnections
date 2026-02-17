@@ -1,6 +1,6 @@
 # SkipTrace: Geometric Inference of Latent Architectural Shortcuts
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhannyj/SkipTrace/blob/main/residual_geometry_inference.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhannyj/SkipTrace/blob/main/notebooks/residual_geometry_inference.ipynb)
 
 SkipTrace is a research project investigating whether skip connections leave a permanent geometric "fingerprint" on a neural network's internal representations
 even when the physical shortcut is removed.
